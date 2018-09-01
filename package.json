@@ -1,0 +1,24 @@
+{
+  "name": "vue-sitemap",
+  "version": "1.0.0",
+  "description": "Vue sitemap generator",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index",
+    "test": "unit"
+  },
+  "keywords": [
+    "sitemap",
+    "vuejs",
+    "vue",
+    "xml",
+    "vue-sitemap",
+    "autogeneration",
+    "generator"
+  ],
+  "author": "Ramunas Meironas <ramunas.meironas@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "sitemap": "^1.13.0"
+  }
+}
