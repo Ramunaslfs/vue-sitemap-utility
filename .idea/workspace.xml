@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="562efac3-8a8f-4ad3-bb2d-8038f165051a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sitemap-generator.js" afterPath="$PROJECT_DIR$/lib/sitemap-generator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-    </list>
+    <list default="true" id="562efac3-8a8f-4ad3-bb2d-8038f165051a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <first_editor relative-caret-position="296">
+                <caret line="20" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="44" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -62,6 +59,9 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -134,6 +134,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="562efac3-8a8f-4ad3-bb2d-8038f165051a" name="Default" comment="" />
@@ -141,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535834314683</updated>
-      <workItem from="1535834316282" duration="677000" />
+      <workItem from="1535834316282" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="677000" />
+    <option name="totallyTimeSpent" value="1321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -186,8 +189,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <first_editor relative-caret-position="296">
+            <caret line="20" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
